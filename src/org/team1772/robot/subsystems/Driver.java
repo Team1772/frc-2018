@@ -12,7 +12,7 @@ import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 
 public class Driver extends Subsystem {
-	// Components
+	// Components teste
 	private GearBox leftGearBox, rightGearBox;
 	private SmartNavx navx;
 
